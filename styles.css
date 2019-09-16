@@ -22,9 +22,19 @@ main {
 .col-1 > article {
     margin: 100% 0px 50px 30px;
 }
+.col-2 > img {
+    height: 350px;
+    width: 350px;
+box-shadow: -4px 15px 15px 5px #000000;
+border-radius: 50%;
+}
 .image-container{
-    height: 400px;
-    width: 400px;
+    
+    height: 350px;
+    width: 350px;
     border-radius: 50%;
-    border: 2px solid black;
+    background: url("turkeymtn-tape.jpg");
+    background-size: 100%;
+    box-shadow: -4px 15px 15px 5px #000000;
+    
 }
