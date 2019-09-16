@@ -310,7 +310,7 @@ div.src-buttons {
         height: 90%;
     }
     .slides > div {
-        height: 470px;
+        height: 580px;
         margin-top: 0px;
     }
     .slides {
@@ -319,7 +319,7 @@ div.src-buttons {
     .slides > div > img {
         height: 35%;
         width: 80%;
-        margin-top: 5px;
+        margin-top: 40px;
     }
 }
 
