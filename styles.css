@@ -190,13 +190,10 @@ main {
 
   #slide-1 {
     width: 95%;
-    border-bottom: 2px solid silver;
     display: block;
-   
-  }
+   }
   #slide-2 , #slide-3, #slide-4, #slide-5 {
     width: 100%;
-    border-bottom: 2px solid silver;
     display: block;
   }
   #slide-1 > p {
@@ -299,6 +296,22 @@ div.src-buttons {
         text-align: center;
         padding-top: 10%;
         line-height: 40px;
+    }
+    /* portfolio */
+    .slider {
+        margin: 0px auto 0px auto;
+        width: 100%;
+        height: 90%;
+    }
+    .slides > div {
+        height: 470px;
+        margin-top: 10px;
+    }
+    .slides {
+        margin-top: 15%;
+    }
+    .slides > div > img {
+        height: 35%;
     }
 }
 
