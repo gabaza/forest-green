@@ -51,7 +51,8 @@ main {
     border-radius: 50%;
     background: url("turkeymtn-tape.jpg");
     background-size: 100%;
-    box-shadow: -3px 6px 10px -1px rgba(0,0,0,0.72);
+   
+    box-shadow: 10px 10px 111px -6px rgba(0,0,0,0.75);
     margin: 20% auto 0px auto;
 }
 #exp-container , #skills-container {
@@ -59,7 +60,7 @@ main {
     height: 450px;
     width: 450px;
     border-radius: 50%;
-    box-shadow: -3px 6px 10px -1px rgba(0,0,0,0.72);
+    box-shadow: 10px 10px 111px -6px rgba(0,0,0,0.75);
     margin: 20% auto 0px auto;
     background: #7E8D85;
     color: #F0F7F4;
@@ -84,7 +85,7 @@ main {
     width: 60px;
     border-radius: 50%;
     background-color: #7E8D85;
-    box-shadow: -3px 6px 10px -1px rgba(0,0,0,0.72);
+    box-shadow: 10px 10px 111px -6px rgba(0,0,0,0.75);
     display: flex;
     flex-direction: column;
     justify-content: center;
