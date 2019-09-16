@@ -273,5 +273,17 @@ div.src-buttons {
     .col-1 > article {
         margin-top: 0px;
     }
+    .col-3 > div > p {
+        display: none;
+    }
+    .col-3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding-left: 15px;
+    }
+    .second-circle-button {
+        margin: 0px;
+    }
 }
 
