@@ -149,10 +149,13 @@ main {
   .slides::-webkit-scrollbar {
     width: 10px;
     height: 10px;
+    border: 1px solid #3C493F;
+    
   }
   .slides::-webkit-scrollbar-thumb {
     border: 1px solid #3C493F;
     border-radius: 10px;
+    background-color: #3C493F;
   }
   .slides::-webkit-scrollbar-track {
     background: transparent;
