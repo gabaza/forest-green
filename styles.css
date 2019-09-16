@@ -5,7 +5,10 @@ body {
     background-color: #F0F7F4;
     color: #3C493F;
     text-transform: uppercase;
-    font-family: 'Roboto Mono', monospace;
+    /* font-family: 'Roboto Mono', monospace; */
+    font-family: Nunito;
+font-style: normal;
+font-weight: bold;
 }
 main {
     display: grid;
