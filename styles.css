@@ -42,7 +42,6 @@ main {
 }
 .col-1 > nav a:hover {
     text-decoration: line-through;
-    font-size: 30px;
 }
 
 .col-1 > article {
