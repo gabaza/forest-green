@@ -259,5 +259,19 @@ div.src-buttons {
     main {
         grid-template-columns: 1fr;
     }
+    .image-container{
+        height: 160px;
+        width: 160px;
+        position: absolute;
+        top: 30px;
+        right: 20px;
+        margin: 10px auto 0px auto;
+    }
+    .col-1 > nav {
+        margin-bottom: 20px;
+    }
+    .col-1 > article {
+        margin-top: 0px;
+    }
 }
 
