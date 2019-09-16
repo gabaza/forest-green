@@ -182,7 +182,7 @@ main {
   }
   .slides > div > img {
       height: 55%;
-      width: 65%;
+      width: 50%;
       border: 1px solid silver;
       border-radius: 5px;
       margin-top: 30px;
