@@ -54,6 +54,23 @@ main {
     box-shadow: -3px 6px 10px -1px rgba(0,0,0,0.72);
     margin: 20% auto 0px auto;
 }
+#exp-container {
+    display: none;
+    height: 450px;
+    width: 450px;
+    border-radius: 50%;
+    box-shadow: -3px 6px 10px -1px rgba(0,0,0,0.72);
+    margin: 20% auto 0px auto;
+    background: #7E8D85;
+    color: #F0F7F4;
+}
+#exp-container > p {
+    font-size: 16px;
+    text-align: center;
+    border-radius: 50%;
+    padding-top: 40%;
+
+}
 .circle-buttons {
     height: 60px;
     width: 60px;
@@ -96,6 +113,15 @@ main {
     margin: 10px auto;
 }
 /* portfolio  */
+.header > a {
+    text-decoration: none;
+    color: #3C493F;
+}
+.header > a > h1 {
+    font-size: 60px;
+    margin: 20px 0px 30px 20px;
+}
+
 .slider {
     margin: 30px auto 25px auto;
     background-color: #F0F7F4;
@@ -148,7 +174,7 @@ main {
       width: 65%;
       border: 1px solid silver;
       border-radius: 5px;
-      margin-top: 38px;
+      margin-top: 30px;
   }
   .slider > a {
     display: hidden;
@@ -168,6 +194,7 @@ main {
   #slide-1 > p {
       font-size: 14px;
       padding: 8px 20px;
+      overflow-y: auto;
   }
   #slide-1 > p > span {
       color: red;
@@ -175,6 +202,7 @@ main {
   #slide-2 > p , #slide-3 > p, #slide-4 > p, #slide-5 > p {
     font-size: 14px;
     padding: 10px 20px;
+    overflow-y: auto;
 }
   a.button-2 {
     text-decoration: none;
@@ -210,9 +238,12 @@ div.src-buttons {
 }
 .slides > div > p > a {
     text-decoration: none;
-    color: silver;
+    color: #7E8D85;
 }
 .slides > div > p > a:hover {
-    color: red;
+    color: #A2E3C4;
+}
+.go-back {
+    margin: 30px auto 10px auto;
 }
 
