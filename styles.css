@@ -186,7 +186,7 @@ main {
   .slides > div > img {
       height: 55%;
       width: 50%;
-      border: 1px solid silver;
+      box-shadow: 3px 30px 111px -30px rgba(0,0,0,0.75);
       border-radius: 5px;
       margin-top: 30px;
   }
@@ -318,6 +318,7 @@ div.src-buttons {
     }
     .slides > div > img {
         height: 35%;
+        width: 80%;
         margin-top: 5px;
     }
 }
