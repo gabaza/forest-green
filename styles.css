@@ -305,13 +305,14 @@ div.src-buttons {
     }
     .slides > div {
         height: 470px;
-        margin-top: 10px;
+        margin-top: 0px;
     }
     .slides {
-        margin-top: 15%;
+        margin-top: 0px;
     }
     .slides > div > img {
         height: 35%;
+        margin-top: 0px;
     }
 }
 
