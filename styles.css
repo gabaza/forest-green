@@ -307,8 +307,9 @@ div.src-buttons {
         height: 90%;
     }
     .slides > div {
-        height: 580px;
+        /* height: 580px; */
         margin-top: 0px;
+        height: auto;
     }
     .slides {
         margin-top: 0px;
