@@ -112,7 +112,7 @@ main {
 }
 .col-3 > div > p {
     margin: 50% auto 0px auto;
-    border-top: 1px solid #DD0426
+    border-top: 1px solid #DD0426;
     border-bottom: 1px solid #DD0426;
 }
 .col-3 > div > p > a {
