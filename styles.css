@@ -299,7 +299,7 @@ div.src-buttons {
     .second-circle-button {
         margin: 0px;
     }
-    #exp-container , #skills-container {
+    #exp-container , #skills-container , #social-container {
         height: 350px;
         width: 350px;
         margin: 0px auto 0px auto;
