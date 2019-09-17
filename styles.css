@@ -35,7 +35,7 @@ main {
 }
 .col-1 > nav > ul > li {
     margin: 10px 0px 0px 0px;
-    font-size: 26px;
+    font-size: 22px;
 }
 .col-1 > nav a {
     text-decoration: none;
@@ -46,7 +46,7 @@ main {
 }
 
 .col-1 > article {
-    margin: 75% 0px 50px 30px;
+    margin: 70% 0px 50px 30px;
 }
 .image-container {
     height: 450px;
@@ -97,9 +97,7 @@ main {
     background-color: #6D7275;
     box-shadow: none;
 }
-.second-circle-button {
-    margin: 65% 30% 0px 0px;
-}
+
 .col-3 > a {
     display: flex;
     flex-direction: row;
