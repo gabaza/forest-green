@@ -81,6 +81,20 @@ main {
     text-decoration: underline;
     line-height: 50px;
 }
+#social-container > .social-container {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-content: center;
+   margin: 15% auto 0px auto;
+   text-align: center;
+}
+#social-container > .social-container a {
+    text-decoration: none;
+    font-size: 22px;
+    color: #ECEBF3;
+    padding-top: 10px;
+}
 
 .circle-buttons {
     height: 60px;
