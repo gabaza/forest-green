@@ -302,7 +302,7 @@ div.src-buttons {
     #exp-container , #skills-container , #social-container {
         height: 350px;
         width: 350px;
-        margin: 0px auto 0px auto;
+        margin: 0px auto 20px auto;
 }
     #exp-container > p {
         font-size: 12px;
@@ -313,6 +313,9 @@ div.src-buttons {
         text-align: center;
         padding-top: 10%;
         line-height: 40px;
+    }
+    section.col-2 {
+        margin-bottom: 50px;
     }
     /* portfolio */
     .slider {
