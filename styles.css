@@ -296,6 +296,9 @@ div.src-buttons {
         justify-content: space-around;
         padding-left: 15px;
     }
+    .col-1 > nav a:hover {
+        text-decoration: none;
+    }
     .second-circle-button {
         margin: 0px;
     }
