@@ -3,7 +3,7 @@ function openExperience() {
     var x = document.getElementById("exp-container");
     var y = document.getElementById("image-container");
     var z = document.getElementById("skills-container");
-    if (x.style.display === "none") {
+    if (x.style.display == 'none' || x.style.display =='') {
      y.style.display ="none";
       x.style.display = "block";
       z.style.display ="none";
@@ -19,7 +19,7 @@ function openSkills() {
     var x = document.getElementById("skills-container");
     var y = document.getElementById("image-container");
     var z = document.getElementById("exp-container");
-    if (x.style.display === "none") {
+    if (x.style.display == "none" || x.style.display =='') {
      y.style.display ="none";
      z.style.display ="none";
      w.style.display ="none";
@@ -36,7 +36,7 @@ function openSocial() {
   var x = document.getElementById("skills-container");
   var y = document.getElementById("image-container");
   var z = document.getElementById("exp-container");
-  if (w.style.display === "none") {
+  if (w.style.display == "none" || x.style.display =='') {
    y.style.display ="none";
    z.style.display ="none";
    x.style.display ="none";

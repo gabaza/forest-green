@@ -297,7 +297,7 @@ div.src-buttons {
         padding-left: 15px;
     }
     .col-1 > nav a:hover {
-        text-decoration: none;
+            text-decoration: none;
     }
     .second-circle-button {
         margin: 0px;
@@ -306,7 +306,7 @@ div.src-buttons {
         height: 350px;
         width: 350px;
         margin: 0px auto 20px auto;
-}
+    }
     #exp-container > p {
         font-size: 12px;
        
